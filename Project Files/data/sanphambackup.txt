@@ -1,0 +1,10 @@
+MT001 Gaming chiec 100 15000000 RTX 3080 null null 
+MT002 Gaming chiec 110 12000000 Tim RTX 2060 null null 
+MT003 Gaming chiec 200 20000000 Xanh RTX 3090 null null 
+MT004 Olddate chiec 120 5000000 null null VGA DVD-ROM 
+MT005 Olddate chiec 50 8000000 null null VGA DVD-RW 
+MT006 Gaming chiec 57 18000000 Vang RTX1920 null null 
+MT007 Olddate chiec 312 12000000 null null VGA Blu-ray 
+MT008 Gaming chiec 56 25000000 Do RTX1660 null null 
+MT009 Olddate chiec 87 6000000 null null VGA CD-ROM 
+MT010 Gaming chiec 87 11000000 Den GTX 4090 null null 

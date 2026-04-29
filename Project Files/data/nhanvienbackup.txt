@@ -1,0 +1,9 @@
+NV001 NguyenVanA 1990-01-01 HaNoi TruongPhong 912345678
+NV002 NguyenVanTuan 1995-01-02 DongHoi NhanVien 912342678
+NV003 NguyenVanPhong 1997-01-03 SaiGon NhanVien 912245678
+NV004 NguyenVanDung 1991-01-04 VungTau NhanVien 912245679
+NV005 NguyenKhanh 1999-01-23 DaLat NhanVien 912245623
+NV006 LeTrungKien 1980-01-12 YenBai NhanVien 912245612
+NV007 NguyenLoi 1981-01-24 CanTho Totruong 912225678
+NV008 TranDuong 1997-02-01 NgheAn NhanVien 122245678
+NV009 BaoPham 1998-03-03 Vinh NhanVien 912245128

@@ -1,0 +1,3 @@
+NV01 NguyenVanA 01/01/1990 Hanoi Manager 0123456789
+NV02 TranThiB 02/02/1992 Saigon Developer 0987654321
+NV03 LeVanC 03/03/1993 Danang Tester 0912345678

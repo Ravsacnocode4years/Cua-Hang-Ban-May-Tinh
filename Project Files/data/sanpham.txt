@@ -1,0 +1,12 @@
+MT001 Gaming chiec 84 15000000 Black 3080 null null
+MT004 Olddate chiec 123 5000000 null null VGA DVD-ROM
+MT005 Olddate chiec 50 8000000 null null VGA DVD-RW
+MT006 Gaming chiec 57 18000000 Vang RTX1920 null null
+MT007 Olddate chiec 200 10000000 null null VGA DVD-ROM
+MT008 Gaming chiec 54 25000000 Do RTX1660 null null
+MT009 Olddate chiec 25 10000000 null null VGA CD-ROM
+MT010 Gaming chiec 32 9500000 blue ADM null null
+MT011 Gaming chiec 30 20000000 Gray 1080 null null
+MT012 Gaming chiec 10 14500000 purple ADM null null
+MT013 Gaming chiec 10 15000000 Rose GTX null null
+MT014 Olddate chiec 10 10000000 null null VGA DVD-ROM
